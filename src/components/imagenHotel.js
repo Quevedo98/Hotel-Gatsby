@@ -58,7 +58,7 @@ const ImagenHotel = () => {
         <>
             <ImagenFondo tag="section" fluid={image.sharp.fluid} fadeIn="soft">
                 <TextoImagen>
-                    <h1>Bienvenido a Hotel Gatsby, esto es un texto agregado</h1>
+                    <h1>Bienvenido a Hotel Gatsby</h1>
                     <p>Este es un parrafo de prueba, para saber si funciona de mejor manera</p>
                 </TextoImagen>
             </ImagenFondo>
